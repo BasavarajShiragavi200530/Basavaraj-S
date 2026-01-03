@@ -1,0 +1,5 @@
+{
+  "name": "EV Demand Predictor Pro",
+  "description": "An advanced AI-powered dashboard for analyzing and predicting electric vehicle charging demand, featuring historical trends, peak hour heatmaps, and linear regression forecasting.",
+  "requestFramePermissions": []
+}
